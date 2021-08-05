@@ -1,6 +1,6 @@
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on any sort of project.
+- 👀 Android Developer
+- 🌱 Having 2+ yrs of Experience 
+-   Java, Kotlin , Flutter basics
 - 📫 How to reach me hiiashish1@gmail.com
 
 <!---
