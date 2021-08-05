@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AshishKumarYadav
-- 👀 I’m interested in Androdi Development
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on any sort of project.
 - 📫 How to reach me hiiashish1@gmail.com
