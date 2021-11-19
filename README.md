@@ -1,5 +1,5 @@
-- 👀 Android Developer
-- 🌱 Having 2+ yrs of Experience 
+-   Android Developer
+- 🌱 Having 2.5+ yrs of Experience 
 -   Java, Kotlin , Flutter basics
 - 📫 How to reach me hiiashish1@gmail.com
 
