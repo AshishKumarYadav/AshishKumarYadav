@@ -1,6 +1,6 @@
 -   Android Developer
-- 🌱 Having 2.5+ yrs of Experience 
--   Java, Kotlin , Flutter basics
+- 🌱 Having 3.5+ yrs of Experience 
+-   Java, Kotlin , MVVM , MVp , JSON , Retrofit , Firebase
 - 📫 How to reach me hiiashish1@gmail.com
 
 <!---
