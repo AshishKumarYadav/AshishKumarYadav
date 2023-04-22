@@ -1,6 +1,7 @@
 -   Android Developer
 - 🌱 Having 3.5+ yrs of Experience 
--   Java, Kotlin , MVVM , MVp , JSON , Retrofit , Firebase
+-   Kotlin , Java , MVVM , MVP , JSON , Retrofit , Firebase
+-   Have Worked on BAnking Application + Tracking application for big MNCs.
 - 📫 How to reach me hiiashish1@gmail.com
 
 <!---
