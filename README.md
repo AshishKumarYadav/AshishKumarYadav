@@ -1,7 +1,7 @@
 -   Android Developer
-- 🌱 Having 6 yrs of Experience 
+-   AOSP/Framework Developer
+- 🌱 Having 7 yrs of Experience 
 -   Kotlin , Java , MVVM , MVP , JSON , Retrofit , Firebase, RxJava, Flow, Jetpack Compose
--   Have Worked on Banking Application + Tracking application for big MNCs.
 - 📫 How to reach me hiiashish1@gmail.com
 
 <!---
