@@ -31,3 +31,9 @@ I build Android from the ground up — custom OS for enterprise tablets, SystemU
 
 ### 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshishKumarYadav&theme=github" height="160" />
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishKumarYadav/AshishKumarYadav/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AshishKumarYadav/AshishKumarYadav/output/github-snake.svg" />
+</picture>
